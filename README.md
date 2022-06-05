@@ -9,3 +9,5 @@
 * Youtube: [Project: Money Maker](https://www.youtube.com/watch?v=O6YGUo3HCfE)
 * Youtube: [Project: Password Checker](https://www.youtube.com/watch?v=U_rcOw1aNHo)
 * Youtube: [Project: Choose Your Own Adventure](https://www.youtube.com/watch?v=HeYCX8Yqc2M)
+* Youtube: [Project: Architect Arithmetic](https://www.youtube.com/watch?v=a3NaiX0rUT8)
+* Youtube: [Project: Exquisite Corpse](https://www.youtube.com/watch?v=35wIwRKT9XI)
