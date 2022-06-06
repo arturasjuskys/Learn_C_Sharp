@@ -14,3 +14,4 @@
 * Youtube: [Project: Caesar Cipher](https://www.youtube.com/watch?v=dcZ4eMTc8GU)
 * Youtube: [Project: True or False?](https://www.youtube.com/watch?v=_iVIviVh4yI)
 * Youtube: [Project: The Object of Your Affection](https://www.youtube.com/watch?v=21AaJwfTaQU)
+* Youtube: [Project: Supernatural Inheritance](https://www.youtube.com/watch?v=vQknhZBG4rU)
