@@ -11,3 +11,5 @@
 * Youtube: [Project: Choose Your Own Adventure](https://www.youtube.com/watch?v=HeYCX8Yqc2M)
 * Youtube: [Project: Architect Arithmetic](https://www.youtube.com/watch?v=a3NaiX0rUT8)
 * Youtube: [Project: Exquisite Corpse](https://www.youtube.com/watch?v=35wIwRKT9XI)
+* Youtube: [Project: Caesar Cipher](https://www.youtube.com/watch?v=dcZ4eMTc8GU)
+* Youtube: [Project: True or False?](https://www.youtube.com/watch?v=_iVIviVh4yI)
