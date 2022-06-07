@@ -15,3 +15,13 @@
 * Youtube: [Project: True or False?](https://www.youtube.com/watch?v=_iVIviVh4yI)
 * Youtube: [Project: The Object of Your Affection](https://www.youtube.com/watch?v=21AaJwfTaQU)
 * Youtube: [Project: Supernatural Inheritance](https://www.youtube.com/watch?v=vQknhZBG4rU)
+* Documentation: [Microsoft: Object Class](https://docs.microsoft.com/en-us/dotnet/api/system.object)
+* Youtube: [Project: Rover Control Center](https://www.youtube.com/watch?v=bzzBb4_w3qk)
+* Documentation: [Microsoft documentation for List\<T>](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1)
+* Documentation: [The Capacity property](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.capacity)
+* LINQ:
+  * Learn more by reading [Microsoft’s guide to LINQ](https://docs.microsoft.com/en-us/dotnet/csharp/linq/).
+  * Find a [list of keywords for query syntax here](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/query-keywords).
+  * Find a [list of common methods for method syntax here](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview).
+  * Find a [complete list of methods for IEnumerable\<T> here](https://docs.microsoft.com/en-us/dotnet/api/system.linq.enumerable).
+* Youtube: [Project: Learn .Net Programming Languages](https://www.youtube.com/watch?v=Vn6D1kEBWq0)
